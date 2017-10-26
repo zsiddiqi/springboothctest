@@ -28,6 +28,6 @@ public class Greeting {
     }
 
     public String getContent() {
-        return content;
+        return "Hello" + content;
     }
 }
